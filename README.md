@@ -2,7 +2,7 @@
 
 [![npm package][npm-badge]][npm]
 
-Easily pipe functions, similar to the [propposed pipeline operator](https://github.com/tc39/proposal-pipeline-operator) but with a more familiar syntax
+Easily pipe functions, similar to the [proposal pipeline operator](https://github.com/tc39/proposal-pipeline-operator) but with a more familiar syntax
 
 ### Usage
 
