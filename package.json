@@ -1,6 +1,6 @@
 {
   "name": "pipe-fns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easily pipe many functions to a value",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -17,8 +17,7 @@
     "test:watch": "nwb test --server",
     "prepublishOnly": "npm run build"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "nwb": "0.21.x"
   },
